@@ -1,5 +1,9 @@
 # Change Log
 
+## v4.1
+
+- translated to english
+
 ## v4
 
 - add a legend (map)
